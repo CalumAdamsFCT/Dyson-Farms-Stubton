@@ -1,0 +1,48 @@
+Name,section,ecid,units
+Add furrow press,fuels,fuel_000114,ha
+Discing deep,fuels,fuel_000115,ha
+Discing shallow,fuels,fuel_000116,ha
+Flat lifting,fuels,fuel_000117,ha
+Min till cultivator,fuels,fuel_000118,ha
+Mole ploughing,fuels,fuel_000119,ha
+Mouldboard plough,fuels,fuel_000120,ha
+Potato Bed Preparation,fuels,fuel_000121,ha
+Power harrowing,fuels,fuel_000122,ha
+Pressing,fuels,fuel_000123,ha
+Rolling,fuels,fuel_000124,ha
+Spring tine,fuels,fuel_000125,ha
+Stubble cultivations (light),fuels,fuel_000126,ha
+Sub soiling,fuels,fuel_000127,ha
+Tillage train,fuels,fuel_000128,ha
+Conventional drilling,fuels,fuel_000129,ha
+Cultivator drill,fuels,fuel_000130,ha
+Direct drill,fuels,fuel_000131,ha
+Flat lift rape drilling,fuels,fuel_000132,ha
+Potato Planting,fuels,fuel_000133,ha
+Power harrow drill,fuels,fuel_000134,ha
+ATV spreading,fuels,fuel_000135,ha
+Lime spreading,fuels,fuel_000136,ha
+Liquid fertiliser spreading,fuels,fuel_000137,ha
+Solid fertiliser distribution,fuels,fuel_000138,ha
+Spraying,fuels,fuel_000139,ha
+Muck spreading,fuels,fuel_000140,ha
+Slurry spreading,fuels,fuel_000141,ha
+Umbilical spreading,fuels,fuel_000142,ha
+Add for straw chopping,fuels,fuel_000143,ha
+Combining,fuels,fuel_000144,ha
+Forage harvester,fuels,fuel_000145,ha
+Hay tedder,fuels,fuel_000146,ha
+Mower,fuels,fuel_000147,ha
+OSR swathing,fuels,fuel_000148,ha
+Potato de-stoning,fuels,fuel_000149,ha
+Potato Harvesting - Self Propelled,fuels,fuel_000150,ha
+Potato Harvesting - Trailed,fuels,fuel_000151,ha
+Silage trailer / carting,fuels,fuel_000152,ha
+Bale wrapper,fuels,fuel_000153,ha
+Baling by the bale (small),fuels,fuel_000160,ha
+Baling by the bale (round),fuels,fuel_000159,ha
+Baling by the bale (heston),fuels,fuel_000158,ha
+Baling by area (small),fuels,fuel_000156,ha
+Baling by area (round),fuels,fuel_000155,ha
+Baling by area (heston),fuels,fuel_000154,ha
+Baling by area (general) ,fuels,fuel_000157,ha
