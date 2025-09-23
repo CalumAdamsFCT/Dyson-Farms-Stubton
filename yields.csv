@@ -1,36 +1,36 @@
-Holding Name,Field Group,Field Name,Crop Type,Variety,Actual t/ha
-Nocton Farms,Stubton Farm Block,Widnes,Maize Forage,Resolute,37.86727184
-Nocton Farms,Stubton Farm Block,The Park,Maize Forage,Resolute,40.32401133
-Nocton Farms,Stubton Farm Block,Popular Field,Maize Forage,Resolute,39.42015535
-Nocton Farms,Stubton Farm Block,Gokart Field,Maize Forage,Resolute,33.5539207
-Nocton Farms,Stubton Farm Block,Cow Field,Maize Forage,Resolute,49.26642459
-Nocton Farms,Stubton Farm Block,Gorse Field,Forage Oats and Vetch,Forage Oats and Vetch,41.75549937
-Nocton Farms,Stubton Farm Block,North Field,Winter Rape,LG Adeline,1.804657151
-Nocton Farms,Stubton Farm Block,North 20ac,Winter Rape,LG Adeline,1.553030202
-Nocton Farms,Stubton Farm Block,Concrete Field,Winter Rape,LG Adeline,1.826403316
-Nocton Farms,Stubton Farm Block,Bottom/Top Simons,Winter Rape,LG Adeline,2.126857716
-Nocton Farms,Stubton Farm Block,Barrier Field,Winter Rape,LG Adeline,1.88675219
-Nocton Farms,Stubton Farm Block,Airfield,Winter Rape,LG Adeline,2.198752183
-Nocton Farms,Stubton Farm Block,South Yard Field,Winter Forage Rye,KWS Tayo,32.71150696
-Nocton Farms,Stubton Farm Block,Modder,Winter Forage Rye,KWS Tayo,36.65275723
-Nocton Farms,Stubton Farm Block,Lillies Meadow,Winter Forage Rye,KWS Tayo,42.14137073
-Nocton Farms,Stubton Farm Block,Grahams Field,Winter Forage Rye,KWS Tayo,21.69565218
-Nocton Farms,Stubton Farm Block,Bullock Field,Sugar Beet,Button,80.77481104
-Nocton Farms,Stubton Farm Block,Dryer Field,Sugar Beet,Button,75.92734211
-Nocton Farms,Stubton Farm Block,Green Walk,Sugar Beet,Button,49.83445908
-Nocton Farms,Stubton Farm Block,Lane Field,Sugar Beet,Button,69.48794096
-Nocton Farms,Stubton Farm Block,Stack Field,Sugar Beet,Button,80.4052667
-Nocton Farms,Stubton Farm Block,Wood Field,Sugar Beet,Button,91.75496798
-Nocton Farms,Stubton Farm Block,Warren,Spring Wheat,Nissaba,6.220058249
-Nocton Farms,Stubton Farm Block,Brandon Field,Spring Wheat,Nissaba,7.365693801
-Nocton Farms,Stubton Farm Block,Bridge Field Stub,Spring Wheat,KWS Cochise,5.844815944
-Nocton Farms,Stubton Farm Block,Rectory,Group 2,KWS Extase,9.506924732
-Nocton Farms,Stubton Farm Block,Little Gates,Group 2,KWS Extase,9.867761983
-Nocton Farms,Stubton Farm Block,Wedding Field,Group 1,Crusoe,7.246609587
-Nocton Farms,Stubton Farm Block,Village Field,Group 1,Crusoe,6.234110285
-Nocton Farms,Stubton Farm Block,Rookery,Group 1,Crusoe,6.775112732
-Nocton Farms,Stubton Farm Block,Middle Field,Group 1,Crusoe,7.501361909
-Nocton Farms,Stubton Farm Block,Long Field (Stubton),Group 1,Crusoe,7.598445783
-Nocton Farms,Stubton Farm Block,England Field,Group 1,Crusoe,6.239003984
-Nocton Farms,Stubton Farm Block,Conifer Field,Group 1,Crusoe,7.04435102
-Nocton Farms,Stubton Farm Block,Balloon Field,Group 1,Crusoe,7.935508939
+"","Crop.Type","total.yield","Working.Area.ha","ecid","section"
+"1","Maize Forage",1041.3499756,27.5,"crop_00140","crops"
+"2","Maize Forage",663.3299863785,16.45,"crop_00140","crops"
+"3","Maize Forage",254.2600020075,6.45,"crop_00140","crops"
+"4","Maize Forage",136.899996456,4.08,"crop_00140","crops"
+"5","Maize Forage",2024.850050649,41.1,"crop_00140","crops"
+"6","Forage Oats and Vetch",683.1199696932,16.36,"crop_00110","crops"
+"7","Winter Rape",55.79999910892,30.92,"crop_00004","crops"
+"8","Winter Rape",11.27499926652,7.26,"crop_00004","crops"
+"9","Winter Rape",8.78499994996,4.81,"crop_00004","crops"
+"10","Winter Rape",40.06999936944,18.84,"crop_00004","crops"
+"11","Winter Rape",17.6600004984,9.36,"crop_00004","crops"
+"12","Winter Rape",49.33999898652,22.44,"crop_00004","crops"
+"13","Winter Forage Rye",483.4760728688,14.78,"crop_00113","crops"
+"14","Winter Forage Rye",491.8800020266,13.42,"crop_00113","crops"
+"15","Winter Forage Rye",283.1900113056,6.72,"crop_00113","crops"
+"16","Winter Forage Rye",54.8900000154,2.53,"crop_00113","crops"
+"17","Sugar Beet",1741.5049260224,21.56,"crop_00013","crops"
+"18","Sugar Beet",1209.5225598123,15.93,"crop_00013","crops"
+"19","Sugar Beet",210.3014173176,4.22,"crop_00013","crops"
+"20","Sugar Beet",838.0245679776,12.06,"crop_00013","crops"
+"21","Sugar Beet",300.715697458,3.74,"crop_00013","crops"
+"22","Sugar Beet",986.365905785,10.75,"crop_00013","crops"
+"23","Spring Wheat",82.54017296423,13.27,"crop_00112","crops"
+"24","Spring Wheat",100.9100050737,13.7,"crop_00151","crops"
+"25","Spring Wheat",174.7599967256,29.9,"crop_00151","crops"
+"26","Group 2",164.75500560556,17.33,"crop_00151","crops"
+"27","Group 2",405.5650175013,41.1,"crop_00151","crops"
+"28","Group 1",42.7549965633,5.9,"crop_00151","crops"
+"29","Group 1",58.8500010904,9.44,"crop_00151","crops"
+"30","Group 1",90.38000384488,13.34,"crop_00151","crops"
+"31","Group 1",165.17998923618,22.02,"crop_00151","crops"
+"32","Group 1",234.64000577904,30.88,"crop_00151","crops"
+"33","Group 1",192.91000318528,30.92,"crop_00151","crops"
+"34","Group 1",150.8899988484,21.42,"crop_00151","crops"
+"35","Group 1",149.50498841076,18.84,"crop_00151","crops"
